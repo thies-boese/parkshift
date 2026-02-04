@@ -46,11 +46,11 @@
 
 | Color Name   | Hex       | Preview         |
 |--------------|-----------|----------------|
-| Primary      | #38BDF8   | ![#38BDF8](https://via.placeholder.com/20/38BDF8/000000?text=+) |
-| Accent       | #0EA5E9   | ![#0EA5E9](https://via.placeholder.com/20/0EA5E9/000000?text=+) |
-| Background   | #F8FAFC   | ![#F8FAFC](https://via.placeholder.com/20/F8FAFC/000000?text=+) |
-| Surface      | #FFFFFF   | ![#FFFFFF](https://via.placeholder.com/20/FFFFFF/000000?text=+) |
-| Text         | #1E293B   | ![#1E293B](https://via.placeholder.com/20/1E293B/000000?text=+) |
+| Primary      | `#38BDF8` | <span style="display:inline-block;width:20px;height:20px;background:#38BDF8;border-radius:4px;border:1px solid #ccc;"></span> |
+| Accent       | `#0EA5E9` | <span style="display:inline-block;width:20px;height:20px;background:#0EA5E9;border-radius:4px;border:1px solid #ccc;"></span> |
+| Background   | `#F8FAFC` | <span style="display:inline-block;width:20px;height:20px;background:#F8FAFC;border-radius:4px;border:1px solid #ccc;"></span> |
+| Surface      | `#FFFFFF` | <span style="display:inline-block;width:20px;height:20px;background:#FFFFFF;border-radius:4px;border:1px solid #ccc;"></span> |
+| Text         | `#1E293B` | <span style="display:inline-block;width:20px;height:20px;background:#1E293B;border-radius:4px;border:1px solid #ccc;"></span> |
 
 ---
 
@@ -127,18 +127,14 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 ---
 
-## 🤝 Contributing
+## 👤 About the Author
 
-Contributions are welcome! Please open issues or pull requests for improvements or new features.
+**Thies Boese**  
+Finance Master's Applicant & International Business Bachelor at Maastricht University  
+Maastricht University  
+[Your LinkedIn](https://www.linkedin.com/in/thies-boese-93851429a)  
+[Your Email](mailto:thiesboese05@gmail.com)  
 
----
+> This project was designed and developed by Thies Boese as part of my academic and professional portfolio.  
+> If you have questions, feedback, or collaboration ideas, feel free to reach out!
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/public/parking-illustration.svg" alt="Parking Illustration" width="300"/>
-</p>
