@@ -147,7 +147,7 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
       <a href="mailto:thiesboese05@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
       </a>
-      <a href="https://www.linkedin.com/in/thies-boese-93851429a">
+      <a href="https://www.linkedin.com/in/thies-boese">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
